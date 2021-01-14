@@ -1,0 +1,117 @@
+
+/* navbar css start */
+.navbar{
+    position:fixed;
+    width:100%;
+}
+.navbar a{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000;
+}
+/* navbar css end */
+
+/* banner part css start */
+
+#banner{
+    background: #eeeeda;
+    padding: 100px 0px;
+}
+.banner-text h1{
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 80px;
+    color: #363958;
+}
+.banner-text h2{
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 80px;
+    color: #76C27E;
+    padding-bottom: 15px;
+}
+.banner-text P{
+    font-weight: normal;
+    font-size: 16px;
+    color: #3E3E3E;
+    line-height: 0;
+    padding-bottom: 15px;
+}
+.btn-info{
+    color: #fff;
+    background:#2A1E59;
+    border: none;
+    border-radius: 5px;
+    padding:10px 15px;
+}
+/* banner part css start */
+
+/* about part css start */
+
+#about{
+    background: #F6F6F6;
+    padding: 70px 0px;
+}
+.same-about{
+    border-radius: 15px;
+    background: #fff;
+    margin: 15px 0px;
+}
+.same-about h2{
+    padding-top: 5px;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #363958;
+}
+.same-about p{
+    font-size: 16px;
+    line-height: 26px;
+    font-family: Roboto;
+    color: #3E3E3E;
+    padding-top: 5px;
+}
+
+/* about part css end */
+
+/* product part css start */
+
+#casual{
+    background: #FEFEFE;
+    padding: 70px 0px;
+}
+.casual-backpack{
+    border: 10px solid #fff;
+    border-radius: 15px;
+}
+.casual-backpack img{
+    border-radius: 10px;
+}
+
+/* product part css end */
+
+/* contact part css start */
+
+#contact{
+    padding: 70px 0px;
+    height: 300px;
+    background: #F1F1F1;
+    border-radius: 5px;
+}
+#contact h2{
+    font-weight:bold;
+    font-size: 24px;
+    color: #3E3E3E;
+}
+#contact h3{
+    font-weight:normal;
+    font-size:16px;
+    color: #3E3E3E;
+
+}
+.form-control{
+    margin-bottom: 10px;
+}
+
+/* contact part css end */
